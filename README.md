@@ -1,9 +1,9 @@
-![Netra Logo]()
+# Netra 
+![Netra Logo](assets/logo.png)
 
-# Netra: AI-Enabled Smart Imaging Device for MSMEs
+## AI-Enabled Smart Imaging Device for MSMEs
 
 Welcome to Netra, the cutting-edge AI-powered solution designed to revolutionize the way Medium, Small, and Micro Enterprises (MSMEs) operate. With Netra, unleash the power of artificial intelligence to automate tasks, enhance productivity, and ensure safety across various industries.
-
 
 ## How Netra Works
 
@@ -14,7 +14,7 @@ Welcome to Netra, the cutting-edge AI-powered solution designed to revolutionize
 5. **Deployment & Testing**: Once approved, Netra is deployed with rigorous testing to ensure reliability and accuracy.
 6. **Continuous Improvement**: We continuously refine and enhance Netra's capabilities based on feedback and real-world usage.
 
-
+![Netra Edge Analytics](assets/edge-analytics.png)
 ## Netra Edge Analytics Services
 
 - **Data Collection**: Gather data from Netra devices securely and efficiently.
@@ -23,35 +23,28 @@ Welcome to Netra, the cutting-edge AI-powered solution designed to revolutionize
 - **Model Deployment**: Deploy trained models onto Netra devices seamlessly.
 
 ## Supported Tasks
-
-- **Classification**: Identify and categorize objects accurately.
-- **Object Detection**: Detect and locate objects within images or video streams.
-- **Segmentation**: Partition images into meaningful segments for analysis.
-- **Pose Detection**: Analyze human poses for various applications.
+![Netra Functions](assets/func.png)
 
 ## Where?
 
-### Manufacturing:
-- **Product Counting**: Effortlessly track inventory levels with precision.
-- **Defect Detection**: Identify flaws in products with unparalleled accuracy.
-- **Standard Operating Procedure (SOP) Compliance**: Ensure adherence to industry standards seamlessly.
+| Category         | Features                                                 |
+|------------------|----------------------------------------------------------|
+| Manufacturing    | 🏭 Product Counting: Track inventory levels with precision. <br> 🔍 Defect Detection: Identify flaws in products accurately. <br> 📋 SOP Compliance: Ensure adherence to industry standards seamlessly. |
+| Logistics/Transportation | 🚚 Worker Safety Monitoring: Ensure the safety of your workforce in real-time. <br> 🛒 Vehicle Stability: Optimize loading operations and prevent accidents. |
+| Petrochemicals   | ⚠️ Accident Prevention: Mitigate risks associated with hazardous chemical handling. |
+| Security         | 🔒 Real-time Alerts: Stay ahead of potential threats with proactive notifications. |
+| Retail           | 🛍️ Customer Behavior Analysis: Gain insights into consumer behavior for informed decision-making. |
+| Custom Use Cases | 🔧 Tailored Solutions: Adapt to your unique business needs with custom implementations. |
 
-### Logistics/Transportation:
-- **Worker Safety Monitoring**: Real-time monitoring to ensure the safety of your workforce.
-- **Vehicle Stability during Loading & Unloading**: Prevent accidents and optimize loading operations effortlessly.
+## Use Cases & Demo Videos
 
-### Petrochemicals:
-- **Accident Prevention**: Mitigate risks associated with hazardous chemical handling through intelligent monitoring.
-
-### Security:
-- **Real-time Alert System**: Stay ahead of potential threats with proactive alerts.
-
-### Retail:
-- **Customer Behavior Analysis**: Gain insights into consumer behavior to drive business decisions effectively.
-
-### Custom Use Cases:
-- **Tailored Solutions**: We adapt to your unique business needs to provide custom solutions.
-
+| Use Case                   | Demo Video Link                                  |
+|----------------------------|--------------------------------------------------|
+| Product Counting           | [Watch Demo](Output/candy.mp4)   |
+| SOP Compaliance   | [Watch Demo](Output/SOP.mp4)  |
+| Logistic -  Container finding  | [Watch Demo](Output/logistic.mp4)  |
+| Under Water plastic detection  | [Watch Demo](Output/ocean.mp4)  |
+| Minmum worker| [Watch Demo](Output/min_worker.mp4) |
 
 ## Advantages of Netra
 
