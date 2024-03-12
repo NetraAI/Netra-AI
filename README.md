@@ -1,7 +1,5 @@
-# Netra 
-![Netra Logo](assets/logo.png)
-
-## AI-Enabled Smart Imaging Device for MSMEs
+# Netra: AI-Enabled Smart Imaging Device for MSMEs
+![Netra](assets/hero.png)
 
 Welcome to Netra, the cutting-edge AI-powered solution designed to revolutionize the way Medium, Small, and Micro Enterprises (MSMEs) operate. With Netra, unleash the power of artificial intelligence to automate tasks, enhance productivity, and ensure safety across various industries.
 
